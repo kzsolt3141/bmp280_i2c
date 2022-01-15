@@ -1,2 +1,3 @@
-# bmp280_i2c
-BMP280 I2C API
+1.0.0 (2022.01.13)
+---------------------
+Initial version: Pa S24.8, centi-celsius S24.8
